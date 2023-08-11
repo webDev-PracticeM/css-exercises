@@ -8,14 +8,11 @@
     font-size: 36px;
 }
 
-.font-24#green {
-    font-weight: bold;
-}
-
 .font-24{
     font-size: 24px;
 }
 
 #green{
     background-color: rgb(79, 248, 79);
+    font-weight: bold;
 }
