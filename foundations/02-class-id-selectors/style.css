@@ -8,10 +8,10 @@
     font-size: 36px;
 }
 
-.font-24 {
+.font-24, #green{
     font-size: 24px;
 }
 
-#green {
+#green{
     background-color: rgb(79, 248, 79);
 }
