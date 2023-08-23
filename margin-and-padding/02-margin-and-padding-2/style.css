@@ -12,7 +12,7 @@ body {
 
 .title {
   background: #e3f4ff;
-  margin: 8px;
+  margin-bottom: 8px;
   padding: 8px;
   font-size: 16px;
   
@@ -20,13 +20,12 @@ body {
 
 .content {
   background: #e3f4ff;
-  margin: 8px;
+  margin-bottom: 8px;
   padding: 16px 8px;
 }
 
 .button-container {
   background: #e3f4ff;
-  margin: 8px;
   text-align: center;
   padding: 8px;
 }
@@ -36,4 +35,5 @@ button {
   border: 1px solid #eee;
   display: block;
   margin: 0 auto;
+  padding: 8px 24px;
 }
