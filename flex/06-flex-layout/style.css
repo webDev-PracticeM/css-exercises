@@ -5,6 +5,8 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  display: flex;
+  flex-direction: column;
 }
 
 .header, .footer{
@@ -27,6 +29,15 @@ body {
   margin-right: 20px;
 }
 
+li a{
+  text-decoration: none;
+}
+
+.content{
+  display: flex;
+  flex-direction: column;
+  
+}
 
 img {
   width: 600px;
@@ -47,6 +58,4 @@ input {
   margin-bottom: 16px;
 }
 
-li a{
-  text-decoration: none;
-}
+
