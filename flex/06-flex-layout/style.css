@@ -12,6 +12,10 @@ body {
   justify-content: space-between;
 }
 
+.footer{
+  background-color: #eee;
+}
+
 .left-links, .right-links{
   display: flex;
   gap: 16px;
