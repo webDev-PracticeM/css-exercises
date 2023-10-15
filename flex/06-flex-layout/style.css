@@ -16,7 +16,13 @@ body {
   display: flex;
   gap: 16px;
   list-style: none;
+  
 }
+
+.right-links{
+  margin-right: 20px;
+}
+
 
 img {
   width: 600px;
